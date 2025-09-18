@@ -6,7 +6,7 @@ All machines were setup using VMware, a platform for running multiple virtual ma
 - pfSense: This was used as the firewall and router for the machines.
 - Windows Server 2019: Served as an active director and domain controller, managing the windows 10 client (user).
 - Windows 10 client: The endpoint device.
-- Splunk: SIEM that to conduct log analysis.
+- Splunk: SIEM to conduct log analysis.
 - Security Onion: An Intrusion Detection System (IDS) used for intrusion detection and monitoring.
 - Kali Linux: The attack machine to practice attacking and defense for the machines.
 
